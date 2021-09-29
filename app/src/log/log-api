@@ -1,0 +1,61 @@
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+2021-09-29T22:03:43.145Z : [log-api] : info : Server started at Port:3000
+2021-09-29T22:05:48.357Z : [log-api] : info : Server started at Port:3000
+2021-09-29T22:06:17.902Z : [log-api] : info : Server started at Port:3000
+2021-09-29T22:08:47.551Z : [log-api] : info : method:GET - url:/ - status:200
+2021-09-29T22:09:51.230Z : [log-api] : info : method:GET - url:/ - status:200
+2021-09-29T22:11:16.972Z : [log-api] : info : method:GET - url:/ - status:200
+2021-09-29T22:15:24.663Z : [log-api] : info : method:GET - url:/ - status:200
+2021-09-29T22:15:56.319Z : [log-api] : info : method:GET - url:/ - status:200
+2021-09-29T22:16:31.397Z : [log-api] : info : method:GET - url:/ - status:200
+2021-09-29T22:16:51.803Z : [log-api] : info : method:GET - url:/ - status:200
+2021-09-29T22:22:20.465Z : [log-api] : info : method:GET - url:/ - status:200
+2021-09-29T22:22:20.634Z : [log-api] : info : method:POST - url:/ - status:201 - body:{"codigo":"test","descricao":"test","preco":200} 
+2021-09-29T22:23:03.972Z : [log-api] : info : Server started at Port:3000
+2021-09-29T22:23:04.229Z : [log-api] : info : method:GET - url:/ - status:200
+2021-09-29T22:40:28.478Z : [log-api] : info : Server started at Port:3000
+2021-09-29T22:40:58.832Z : [log-api] : info : Server started at Port:3000
+2021-09-29T22:41:45.788Z : [log-api] : info : Server started at Port:3000
+2021-09-29T22:42:14.171Z : [log-api] : info : method:GET - url:/ - status:200
+2021-09-29T22:42:14.415Z : [log-api] : info : method:POST - url:/ - status:201 - body:{"codigo":"test","descricao":"test","preco":200} 
+2021-09-29T22:42:14.623Z : [log-api] : info : method:POST - url:/ - status:201 - body:{"codigo":"test","descricao":"test","preco":200} 
+2021-09-29T22:42:57.851Z : [log-api] : info : Server started at Port:3000
+2021-09-29T22:42:59.875Z : [log-api] : info : method:GET - url:/ - status:200
+2021-09-29T22:43:51.276Z : [log-api] : info : Server started at Port:3000
+2021-09-29T22:44:02.746Z : [log-api] : info : method:GET - url:/ - status:200
+2021-09-29T22:44:02.897Z : [log-api] : info : method:POST - url:/ - status:201 - body:{"codigo":"test","descricao":"test","preco":200} 
+2021-09-29T22:44:03.327Z : [log-api] : error : method:DELETE - url:/4 - error status: undefined - error:id is not defined 
+2021-09-29T22:45:18.978Z : [log-api] : info : method:GET - url:/ - status:200
+2021-09-29T22:45:19.126Z : [log-api] : info : method:POST - url:/ - status:201 - body:{"codigo":"test","descricao":"test","preco":200} 
+2021-09-29T22:45:19.594Z : [log-api] : error : method:DELETE - url:/4 - error status: undefined - error:id is not defined 
+2021-09-29T22:45:45.430Z : [log-api] : info : Server started at Port:3000
+2021-09-29T22:45:50.357Z : [log-api] : info : method:GET - url:/ - status:200
+2021-09-29T22:45:50.576Z : [log-api] : info : method:POST - url:/ - status:201 - body:{"codigo":"test","descricao":"test","preco":200} 
+2021-09-29T22:45:50.671Z : [log-api] : error : method:DELETE - url:/4 - error status: undefined - error:id is not defined 
+2021-09-29T22:46:07.007Z : [log-api] : info : method:GET - url:/ - status:200
+2021-09-29T22:47:56.683Z : [log-api] : error : method:DELETE - url:/7 - error status: undefined - error:id is not defined 
+2021-09-29T22:48:11.897Z : [log-api] : info : Server started at Port:3000
+2021-09-29T22:48:32.641Z : [log-api] : info : Server started at Port:3000
+2021-09-29T22:48:33.675Z : [log-api] : error : method:DELETE - url:/7 - error status: undefined - error:id is not defined 
+2021-09-29T22:48:50.970Z : [log-api] : info : Server started at Port:3000
+2021-09-29T22:48:59.345Z : [log-api] : info : Server started at Port:3000
+2021-09-29T22:49:00.520Z : [log-api] : info : method:DELETE - url:/7 - status:200
+2021-09-29T22:49:07.599Z : [log-api] : info : method:GET - url:/ - status:200
+2021-09-29T22:50:40.233Z : [log-api] : error : method:PUT - url:/6 - error status: undefined - error:produto is not defined 
+2021-09-29T22:51:20.640Z : [log-api] : info : Server started at Port:3000
+2021-09-29T22:51:21.021Z : [log-api] : info : method:PUT - url:/6 - status:200 - body:{"codigo":"test","descricao":"test","preco":400}
+2021-09-29T22:52:07.324Z : [log-api] : info : Server started at Port:3000
+2021-09-29T22:52:37.013Z : [log-api] : info : Server started at Port:3000
+2021-09-29T22:53:58.240Z : [log-api] : info : method:GET - url:/ - status:200
+2021-09-29T22:53:58.384Z : [log-api] : info : method:POST - url:/ - status:201 - body:{"codigo":"test","descricao":"test","preco":200} 
+2021-09-29T22:53:58.470Z : [log-api] : info : method:DELETE - url:/4 - status:200
+2021-09-29T22:54:34.479Z : [log-api] : info : Server started at Port:3000
+2021-09-29T22:54:34.751Z : [log-api] : info : method:GET - url:/ - status:200
